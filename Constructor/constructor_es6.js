@@ -18,8 +18,8 @@ class Car {
 
 }
 
-var civic = new Car('Honda Civic', 2009, 20000);
-var mondeo = new Car('Ford Mondeo', 2010, 5000);
+let civic = new Car('Honda Civic', 2009, 20000);
+let mondeo = new Car('Ford Mondeo', 2010, 5000);
 
 // By using this way of defining a constructor for an object,
 // it is a lot easier to create objects and their defining
